@@ -1,0 +1,17 @@
+.userTable{
+    height: 400px;
+    width: 80%;
+    margin-left: 275px;
+    margin-top: 150px;
+    margin-bottom: 40px;
+}
+
+.dialogTitle{
+    background-color: rgb(80, 80, 248) !important;
+    color: white !important;
+    margin-bottom: 40px
+}
+.text{
+    margin-top: 0px;
+    color: rgba(0,0,0, .2)
+}

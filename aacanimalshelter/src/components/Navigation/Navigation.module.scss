@@ -1,0 +1,7 @@
+$drawerWidth: 200px;
+
+:export {drawerWidth: $drawerWidth}
+
+.root {
+    width: $drawerWidth
+}

@@ -1,0 +1,44 @@
+.leaflet-draw-edit-edit{
+    display: none !important;
+}
+.table{
+    margin-left: 275px !important;
+    width: 80%;
+    border: solid;
+    margin-top: 30px
+}
+
+.headers{
+    font-weight: bold !important;
+    font-size: 16px !important;
+    height: 70px !important;
+}
+
+.map{
+    height: 60vh;
+    width: 80%;
+    margin-left: 275px;
+    border: solid;
+}
+
+.checkboxCell{
+    width: 10px !important;
+    text-align: center !important;
+    margin-left: 50px;
+}
+
+.idCell{
+    width: 30px;
+}
+
+.nameCell{
+    width: 50px;
+}
+
+.animalIdCell{
+    width: 30px;
+}
+
+.breedCell{
+    width: 75px
+}
